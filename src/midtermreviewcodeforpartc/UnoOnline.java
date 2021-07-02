@@ -72,6 +72,7 @@ public class UnoOnline {
         System.out.println("test2");
         System.out.println("test3 after checking out revision");
         System.out.println("test 4 after committing");
+        System.out.println("test 4 works");
 
     }//end run method
 
