@@ -71,6 +71,7 @@ public class UnoOnline {
         System.out.println("Test for merging branches");
         System.out.println("test2");
         System.out.println("test3 after checking out revision");
+        System.out.println("test 4 after committing");
 
     }//end run method
 
