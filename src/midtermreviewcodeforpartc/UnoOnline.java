@@ -73,6 +73,18 @@ public class UnoOnline {
         System.out.println("test3 after checking out revision");
         System.out.println("test 4 after committing");
         System.out.println("test 4 works");
+        
+        int count = 0;
+        
+        for(int i = 1; i < 10; i++){
+            for (int j = (i-1); j < i; j++){
+                for(int k = 10; k > 0; k--){
+                    System.out.print("  ");
+                }
+                System.out.print(count);
+            }
+            System.out.println("  " + count);
+        }
 
     }//end run method
 
