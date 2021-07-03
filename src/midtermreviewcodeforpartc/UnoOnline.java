@@ -85,6 +85,8 @@ public class UnoOnline {
             }
             System.out.println("  " + count);
         }
+        
+        System.out.println("final test");
 
     }//end run method
 
